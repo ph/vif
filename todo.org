@@ -1,0 +1,7 @@
+#+TITLE: Todo
+
+* Steps
+** TODO Create a simple shell
+** TODO Initialize the logger
+** TODO Handle Linux signals
+** TODO Create an empty runnable
