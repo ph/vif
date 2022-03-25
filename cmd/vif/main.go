@@ -1,4 +1,4 @@
-package vif
+package main
 
 func main() {
 
