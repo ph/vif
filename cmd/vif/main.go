@@ -1,6 +1,5 @@
-package main
+package vif
 
 func main() {
-	bootstrap.New()
 
 }
