@@ -26,6 +26,9 @@ func (v *Vif) Run() error {
 	log.Info().
 		Msg("Vif shell started")
 
+	log.Info().
+		Msg("Vif shell ready")
+
 	<-ctx.Done()
 
 	return nil
